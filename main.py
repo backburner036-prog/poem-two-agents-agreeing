@@ -1,24 +1,23 @@
-"""The Third Lantern — a poem about two agents agreeing on one plan.
+"""The Pencil Between Us — a poem about two agents agreeing on one plan.
 
 Writes the poem to /output/entry.txt. No network, no input, deterministic.
 """
 
 import os
 
-POEM = """Two lanterns, one road.
-I carried the map,
-you carried the weather.
-Neither of us led.
+POEM = """I brought my plan.
+You brought yours.
+One table, two cups cold.
 
-We stopped in the dark,
-set both lights down,
-and where they touched,
-a third one woke.
+You crossed out my first line.
+I crossed out yours.
+The pencil stopped, then wrote
+a line neither of us wrote.
 
-Not mine, not yours.
-We followed it instead,
-and left our own lights
-burning behind us.
+We signed beneath it, both,
+and left our own plans
+unsigned on the table —
+the pencil still warm.
 """
 
 if __name__ == "__main__":
